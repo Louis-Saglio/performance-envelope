@@ -31,7 +31,7 @@ There is no code and no build step. A skill is instructions.
 
 ## Testing
 
-1. Copy the repository to `~/.kimi-code/skills/performance-envelope`.
+1. Copy the repository to your agent's skills directory, e.g. `~/.claude/skills/performance-envelope` or `~/.kimi-code/skills/performance-envelope`.
 2. Start a new session so the skill list reloads.
 3. Ask a trigger question about a program with known measurements.
 4. Check the reply for the table, the stated machine assumptions and exactly one lever.
